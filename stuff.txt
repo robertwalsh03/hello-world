@@ -1,1 +1,2 @@
-A file for practicing Git Terminal Commands 
+A file for practicing Git Terminal Commands. This sentence was added from 
+the MacOS Terminal! 
